@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("daniel test3","daniel test3");
         Log.d("daniel test4","daniel test4");
         Log.d("daniel test5","daniel test5");
+        Log.d("daniel test6","daniel test6");
     }
 
     @Override
